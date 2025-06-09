@@ -2,8 +2,10 @@
   <img 
     src="https://img.shields.io/badge/Tuning_Shear_Rheology_through_Active_Dopants-lightblue?style=for-the-badge" 
     alt="Tuning Shear Rheology through Active Dopants" />
-  <br/><br/>
-  <strong> by Amir Shee, Ritwik Bandyopadhyay, and Haicen Yue </strong>
+  <br/>
+  by
+  <br/>
+  <strong> Amir Shee, Ritwik Bandyopadhyay, and Haicen Yue </strong>
 </p>
 
 
