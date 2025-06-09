@@ -83,11 +83,21 @@ This Python script reads all nonzero-α CSV files from `data_alpha_Pe/`, compute
 
 ### `fig4cde.py`
 
+This Python script reads fitted model parameters from `fit_parameters.csv` and produces `fig4cde.png`:
+
+1. **Panel (c):**  
+   Offset–power-law fit of \(\sigma_0\) vs.\ shear‐rate \(\dot\gamma\). Data points (marker ‘o’, color C1) are plotted on log–log axes with a dashed black fit curve.
+
+2. **Panel (d):**  
+   Critical active-energy \((\alpha\,\mathrm{Pe}^2)_c\) vs.\ \(\dot\gamma\). Data points (marker ‘^’, color C2) and dashed fit curve are shown on log–log axes, with the glass boundary \(G\) annotated.
+
+3. **Panel (e):**  
+   Flow‐exponent parameter \(m\) vs.\ \(\dot\gamma\). Data points (marker ‘d’, color C3) are plotted on log–log axes.
 
 
 
-
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 
 <div style="text-align: center;">
