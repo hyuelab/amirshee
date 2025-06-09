@@ -117,7 +117,11 @@ This Python script reads skewness and kurtosis measurements from CSV files in `d
 - **Panel (b):**  
   Excess kurtosis \(\mathcal{K}_{\sigma} = \mathrm{kurtosis} - 3\) vs.\ \(\alpha\,\mathrm{Pe}^2\) under the same conditions.
 
+### `fig5cd.py`
 
+This script reads per‐file skewness and excess‐kurtosis values at fixed shear rate \(\dot\gamma=10^{-6}\) from CSV files (same data folder correspond to fig5ab.py). It builds two heatmaps of  
+- **(c)** Stress‐fluctuation skewness \(\mathcal{S}_{\sigma}\) vs.\ \(\mathrm{Pe}\) and \(\alpha\)  
+- **(d)** Excess kurtosis \(\mathcal{K}_{\sigma} = \mathrm{kurtosis} - 3\) vs.\ the same axes  
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
