@@ -54,6 +54,16 @@ This script reads `yield_stress.csv` and produces:
 
 ### `fig3.py`
 
+This script reads `yield_data_alpha_Pe.csv`, computes mean yield stress \(\sigma_Y\) for each \((\alpha,\mathrm{Pe})\), and generates a 2×2 figure (`fig3.png`) with:
+
+1. **Panel (a):**  
+   \(\sigma_Y\) vs Péclet number (Pe) at fixed dopant fractions \(\alpha = \{0.00,\,0.15,\,0.40,\,0.50\}\). Markers denote data points above the noise floor (\(10^{-6}\)); dashed vertical guides indicate where yield stress falls to baseline.  
+
+2. **Panel (b):**  
+   \(\sigma_Y\) vs dopant fraction \(\alpha\) at fixed Pe = \(\{0,\,4,\,8,\,12\}\), with analogous markers and guides.  
+
+3. **Panel (c):**  
+   Heatmap of \(\sigma_Y(\mathrm{Pe},\alpha)\) with the glass–fluid boundary \(\alpha\,\mathrm{Pe}^2=\text{const}\), and skewness/kurtosis contours from `skewnes_kurtosis_alpha_Pe.csv`.
 
 
 
