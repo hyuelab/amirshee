@@ -70,6 +70,13 @@ This script reads `yield_data_alpha_Pe.csv`, computes mean yield stress \(\sigma
 
 ### `fig4ab.py`
 
+This Python script reads all nonzero-α CSV files from `data_alpha_Pe/`, computes the composite “active-energy” parameter \(\alpha\,\mathrm{Pe}^2\), and plots at fixed shear rate \(\dot\gamma=10^{-6}\):
+
+- **Panel (a):**  
+  Mean shear stress \(\langle\sigma_{xy}\rangle\) vs.\ \(\alpha\,\mathrm{Pe}^2\). Data points are colored by Pe and marked by different α.
+
+- **Panel (b):**  
+  Viscosity \(\eta = \langle\sigma_{xy}\rangle/\dot\gamma\) vs.\ \(\alpha\,\mathrm{Pe}^2\) at the same fixed \(\dot\gamma\).
 
 
 
