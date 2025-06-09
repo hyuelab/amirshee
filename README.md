@@ -22,6 +22,12 @@
 
 
 
+<p align="center">
+  <img 
+    src="https://img.shields.io/badge/Supplemental_Material-lightgreen?style=for-the-badge" 
+    alt="Tuning Shear Rheology through Active Dopants" />
+</p>
+
 
 
 ### `SM_fig1.py`
