@@ -81,5 +81,5 @@ leg.get_frame().set_edgecolor('black')
 plt.grid(False)
 
 plt.tight_layout()
-plt.savefig('SM_fig0.png', dpi=600)
+plt.savefig('SM_fig1.png', dpi=600)
 plt.show()
