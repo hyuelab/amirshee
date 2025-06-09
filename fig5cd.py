@@ -151,7 +151,7 @@ out_dir = "figures"
 os.makedirs(out_dir, exist_ok=True)
 for ext in ("png", "pdf"):
     fig.savefig(
-        os.path.join(out_dir, f"heatmap_skew_kurt_alpha_Pe.{ext}"),
+        os.path.join(out_dir, f"fig5cd.{ext}"),
         dpi=600, bbox_inches='tight'
     )
 
