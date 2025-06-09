@@ -107,7 +107,7 @@ This Python script reads fitted model parameters from `fit_parameters.csv` and p
     alt="End Matter" />
 </div>
 
-### `fig5.py`
+### `fig5ab.py`
 
 This Python script reads skewness and kurtosis measurements from CSV files in `data_skewness_kurtosis_alpha_Pe/` (named with `alpha_<α>_Pe_<Pe>.csv`), computes the composite “active‐energy” parameter \(\alpha\,\mathrm{Pe}^2\), and produces fig5ab.png:
 
