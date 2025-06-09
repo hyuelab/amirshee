@@ -11,7 +11,7 @@ fontsize = 20
 labelsize = 18
 
 # Load data from the results file
-data_file = "analysis/yield_stress.csv"
+data_file = "yield_stress.csv"
 data = pd.read_csv(data_file)
 
 # Pivot the data to create a matrix for heatmap
