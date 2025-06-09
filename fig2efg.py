@@ -372,5 +372,5 @@ plt.subplots_adjust(
 
 
 # Save and show the figure
-plt.savefig("phase_diagram_alpha_phi.png", dpi=600)
+plt.savefig("fig2efg.png", dpi=600)
 plt.show()
