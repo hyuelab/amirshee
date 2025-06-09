@@ -280,5 +280,4 @@ plot_viscosity(ax4, filtered_data2, r"$\mathrm{Symbols:~} \alpha=0.35 (\mathrm{s
 ax4.text(0.90, 0.90, "(d)", transform=ax4.transAxes, fontsize=fontsize, fontweight='bold')
 
 plt.show()
-fig.savefig('shear_stress_viscosity_phi.pdf', dpi=600)
-fig.savefig('shear_stress_viscosity_phi.png', dpi=600)
+fig.savefig('fig2abcd.png', dpi=600)
