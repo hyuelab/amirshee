@@ -16,7 +16,7 @@
 
 <div style="text-align: center;">
   <img
-    src="https://img.shields.io/badge/Main_Article-lightred?style=for-the-badge"
+    src="https://img.shields.io/badge/Main_Article-lightgreen?style=for-the-badge"
     alt="Main Article"
 </div>
 
