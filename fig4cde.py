@@ -140,5 +140,5 @@ for ax in axes.flatten():
 
 
 # save & show
-fig.savefig('figcde.png', dpi=600)
+fig.savefig('fig4cde.png', dpi=600)
 plt.show()
