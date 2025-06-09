@@ -10,6 +10,11 @@
 
 
 
+<p align="center">
+  <img 
+    src="https://img.shields.io/badge/Main_Article-lightred?style=for-the-badge" 
+    alt="Tuning Shear Rheology through Active Dopants" />
+</p>
 
 
 
