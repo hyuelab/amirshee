@@ -51,7 +51,7 @@ def load_and_filter_data(data_dir, alpha_values):
     return filtered_data
 
 # Directory containing data files
-data_dir = "shear_data"
+data_dir = "shear_data_alpha_phi"
 
 # Load and filter data for alpha = 0 and alpha = 0.05 in subplot 1
 alpha_values1 = [0.0, 0.05]
