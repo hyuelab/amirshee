@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Tuning_Shear_Rheology_through_Active_Dopants-blue?style=for-the-badge" 
+    src="https://img.shields.io/badge/Tuning_Shear_Rheology_through_Active_Dopants-lightblue?style=for-the-badge" 
     alt="Tuning Shear Rheology through Active Dopants" />
 </p>
 
