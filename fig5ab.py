@@ -189,6 +189,6 @@ cbar.ax.tick_params(labelsize=labelsize, direction='in')
 
 
 fig.subplots_adjust(left=0.06, right=0.93, top=0.96, bottom=0.14, wspace=0.22)
-out_png = os.path.join(fig_output_dir, 'skew_kurt_collapse_gm6.png')
+out_png = os.path.join(fig_output_dir, 'fig5ab.png')
 fig.savefig(out_png, dpi=600)
 plt.show()
