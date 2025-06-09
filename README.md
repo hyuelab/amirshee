@@ -25,6 +25,8 @@
 A 2D x-y view of our 3D simulation cell containing mixture of passive (C, D) and active (A, B) Brownian particles under simple shear velocity profile.  
 
 
+### `fig2abcd.py`
+
 
 
 ### `fig2efg.py`
