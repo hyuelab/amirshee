@@ -8,6 +8,9 @@
   <strong> Amir Shee, Ritwik Bandyopadhyay, and Haicen Yue </strong>
 </p>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2506.05262-B31B1B)](https://arxiv.org/abs/2506.05262)
+
+
 
 
 <p>&nbsp;</p>
