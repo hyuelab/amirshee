@@ -20,7 +20,13 @@
     alt="Main Article"
 </div>
 
+### `fig1.png`
 
+
+
+
+
+### `fig2.py`
 
 
 
