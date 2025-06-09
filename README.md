@@ -27,6 +27,21 @@ A 2D x-y view of our 3D simulation cell containing mixture of passive (C, D) and
 
 ### `fig2abcd.py`
 
+This Python script reads shear‐flow data from `shear_data/` (CSV files named `phi_<φ>_alpha_<α>.csv`), fits the Herschel–Bulkley model, and produces a 2×2 panel figure (`fig2abcd.png`) showing stress and viscosity curves:
+
+- **Panel (a):**  
+  Average shear stress ⟨σₓᵧ⟩ vs. shear rate \(\dot\gamma\) for α = 0.00 (solid markers) and α = 0.05 (open markers) across φ values. Dashed lines indicate yield‐stress saturation.  
+
+- **Panel (b):**  
+  Same as (a) but for α = 0.35 (solid) and α = 0.50 (open).  
+
+- **Panel (c):**  
+  Viscosity η = ⟨σₓᵧ⟩/ \(\dot\gamma\) vs. \(\dot\gamma\) for α = 0.00 and 0.05, with a \(\dot\gamma^{-1}\) reference (dashed line).  
+
+- **Panel (d):**  
+  Viscosity curves for α = 0.35 and 0.50, with the same reference line.
+
+
 
 
 ### `fig2efg.py`
