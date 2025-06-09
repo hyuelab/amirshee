@@ -27,7 +27,7 @@ A 2D x-y view of our 3D simulation cell containing mixture of passive (C, D) and
 
 ### `fig2abcd.py`
 
-This Python script reads shear‐flow data from `shear_data/` (CSV files named `phi_<φ>_alpha_<α>.csv`), fits the Herschel–Bulkley model, and produces a 2×2 panel figure (`fig2abcd.png`) showing stress and viscosity curves:
+This Python script reads shear‐flow data from `shear_data/` (CSV files named `phi_<φ>_alpha_<α>.csv`), fits the Herschel–Bulkley model, and produces `fig2abcd.png` showing stress and viscosity curves:
 
 - **Panel (a):**  
   Average shear stress ⟨σₓᵧ⟩ vs. shear rate \(\dot\gamma\) for α = 0.00 (solid markers) and α = 0.05 (open markers) across φ values. Dashed lines indicate yield‐stress saturation.  
@@ -54,7 +54,7 @@ This script reads `yield_stress.csv` and produces:
 
 ### `fig3.py`
 
-This script reads `yield_data_alpha_Pe.csv`, computes mean yield stress \(\sigma_Y\) for each \((\alpha,\mathrm{Pe})\), and generates a 2×2 figure (`fig3.png`) with:
+This script reads `yield_data_alpha_Pe.csv`, computes mean yield stress \(\sigma_Y\) for each \((\alpha,\mathrm{Pe})\), and generates `fig3.png` with:
 
 1. **Panel (a):**  
    \(\sigma_Y\) vs Péclet number (Pe) at fixed dopant fractions \(\alpha = \{0.00,\,0.15,\,0.40,\,0.50\}\). Markers denote data points above the noise floor (\(10^{-6}\)); dashed vertical guides indicate where yield stress falls to baseline.  
