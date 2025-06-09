@@ -52,6 +52,23 @@ This script reads `yield_stress.csv` and produces:
 2. **Panel (f):** Yield stress \(\sigma_Y\) vs.\ dopant fraction \(\alpha\) for fixed \(\phi = [0.65,0.66,0.67,0.68]\).  
 3. **Panel (g):** Heatmap of \(\sigma_Y(\phi,\alpha)\) saved as `fig2efg.png`.
 
+### `fig3.py`
+
+
+
+
+
+### `fig4ab.py`
+
+
+
+
+
+### `fig4cde.py`
+
+
+
+
 
 
 
