@@ -109,7 +109,13 @@ This Python script reads fitted model parameters from `fit_parameters.csv` and p
 
 ### `fig5.py`
 
+This Python script reads skewness and kurtosis measurements from CSV files in `data_skewness_kurtosis_alpha_Pe/` (named with `alpha_<α>_Pe_<Pe>.csv`), computes the composite “active‐energy” parameter \(\alpha\,\mathrm{Pe}^2\), and produces fig5ab.png:
 
+- **Panel (a):**  
+  Stress‐fluctuation skewness \(\mathcal{S}_{\sigma}\) vs.\ \(\alpha\,\mathrm{Pe}^2\) at fixed shear rate \(\dot\gamma=10^{-6}\). Symbols mark different \(\alpha\), colored by Pe.
+
+- **Panel (b):**  
+  Excess kurtosis \(\mathcal{K}_{\sigma} = \mathrm{kurtosis} - 3\) vs.\ \(\alpha\,\mathrm{Pe}^2\) under the same conditions.
 
 
 
