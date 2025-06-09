@@ -20,7 +20,7 @@ labelsize  = 18
 # ---------------------------
 # Load data
 # ---------------------------
-data_file = "data/data.csv"
+data_file = "yield_data_alpha_Pe.csv"
 data = pd.read_csv(data_file)
 
 data.columns = [c.strip().lower() for c in data.columns]
@@ -297,5 +297,5 @@ plt.subplots_adjust(
 )
 
 
-plt.savefig("phase_diagram_alpha_Pe.png", dpi=600)
+plt.savefig("fig3.png", dpi=600)
 plt.show()
